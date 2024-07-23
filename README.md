@@ -17,7 +17,7 @@ Subtitle Time Adjuster is a Python script designed to adjust the timing of subti
    ```sh
    cd Subtitle_Time_Adjuster
 
-# Usage
+## Usage
 1. Place your SRT file in the project directory.
 
 2. Run the script with the desired time shift.
@@ -33,5 +33,5 @@ Subtitle Time Adjuster is a Python script designed to adjust the timing of subti
 
 3. The adjusted SRT file will be saved in the same directory with _shifted appended to the original filename.
 
-##Contributers
+## Contributers
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
