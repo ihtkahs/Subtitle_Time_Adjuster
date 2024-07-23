@@ -26,7 +26,7 @@ Subtitle Time Adjuster is a Python script designed to adjust the timing of subti
    To shift subtitles 1.5 seconds later:
    ```sh
    python subtitle_later.py your_file.srt 1.5
-
+   ```
    To shift subtitles 1.5 seconds earlier:
    ```sh
    python subtitle_earlier.py your_file.srt 1.5
